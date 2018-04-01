@@ -10,7 +10,7 @@ Retrieve the multiple items stored under a key in the Firebase Database in Real-
 
 Steps:
 1. Create an Android Project with Basic Activity Layout.
-2. Go to Tools>Firebase>Add Firebase Realtime Database and let the geadle sync. Sit back for some time and relax.
+2. Go to Tools>Firebase>Add Firebase Realtime Database and let the gradle sync. Sit back for some time and relax.
 3. Create an activity "input_dialog.xml" in the layout folder (for taking input from user, hidden button can be 
 activated by removing comment in the files ).
 4. Thereafter, "model.xml" i.e., the card layout that replicates itself.
